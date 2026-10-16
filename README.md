@@ -142,3 +142,5 @@ Dimensjonstabeller og standardreferanser ligger i `src/data/tables.js`.
 - VA-miljøblad nr. 112: Kumsikkerhet
 - Pipelife Rørhåndbok 2007, kap. 3
 
+> **NB:** VA-miljøbladene er under utfasing og erstattes gradvis av
+> [Vannstandard](https://vannstandard.no) (Norsk Vann).
